@@ -3,6 +3,7 @@
 this is basic Sales System With REST API , MySQL
 
 
+
 ## Features
 
 - Model to DB for Client, Product, Sale
@@ -110,3 +111,20 @@ this is basic Sales System With REST API , MySQL
 | `id`      | `string` | **Required**. Id of item to fetch |
 
 - This Example for All Product, Client, Sale but need edit body JSON (Follow Model)
+## Deployment
+
+To deploy this project run
+
+```Clone 
+  Clone Repositorie 
+```
+
+```Clone 
+  Create Table in DB 
+  and modify url DB
+```
+```Run 
+  Run Project 
+```
+
+
